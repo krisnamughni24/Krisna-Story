@@ -1,6 +1,3 @@
-# krisnastory
-
-
 <div align="center" style="width: 150%">
   <h2 align="center">Mortals God</h2>
 </div>
@@ -13,4 +10,4 @@ As the days passed, the mortals began to realize that this god was not like any 
 
 In the end, the unexpected god remained an enigma to the mortals. They could not fully understand him, nor could they fully comprehend his place in the world. But that did not matter to the god. He was content in his own existence, and he continued to inspire the mortals to explore their own existence in turn.
 
-December 2020
+*December 2020*
