@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h2>Mortals God</h2>
 </div>
 
