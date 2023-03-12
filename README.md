@@ -2,7 +2,7 @@
   <h2>Mortals God</h2>
 </div>
 
-<div align="center">
+<div>
   <img src="https://user-images.githubusercontent.com/68163712/224541707-1593cac8-a9c5-452e-b0ef-b1b607e39ce7.png" width="100%" height="auto"/>
 </div>
 
