@@ -1,5 +1,5 @@
-<div>
-  <h2 align="center">Mortals God</h2>
+<div align="center">
+  <h2>Mortals God</h2>
 </div>
 
 <div align="center" style="width: 50%">
