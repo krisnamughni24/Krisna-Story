@@ -1,4 +1,20 @@
 <div align="center">
+  <h2>The Angels, Humans, and Demons</h2>
+</div>
+
+In the beginning, there was a God who ruled over all creation. The angels, humans, and demons all worshipped this God and obeyed his every command. But one day, the unthinkable happened - the God died.
+
+Chaos erupted as the three groups struggled to come to terms with this new reality. The angels were filled with sorrow, as they had always believed that they were the chosen ones of God. The demons saw this as an opportunity to seize power for themselves, while the humans were left feeling lost and alone in a world without a higher power to guide them.
+
+But amidst the confusion and despair, the author emerged. He believed that there was a way for the angels, humans, and demons to find meaning and happiness even in the absence of God. That author argued that each group had the power to create their own destiny, and that by working together, they could create a world that was truly worth living in. He argued that the angels had the power to inspire and uplift, the humans had the power to create and innovate, and the demons had the power to challenge and push boundaries.
+
+Slowly but surely, the three groups began to understand and appreciate each other in a way that they never had before. The angels began to see that the humans and demons had unique talents and abilities that they had previously overlooked, and the humans and demons began to see the value of the angels' wisdom and compassion. As they worked together to build a new world, the angels, humans, and demons found that they were able to create something truly remarkable. They built great cities, invented new technologies, and explored the furthest reaches of the universe. And through it all, they remained united, their differences no longer a source of conflict but a source of strength.
+
+In the end, the author teachings had led the three groups to a new understanding of themselves and each other. They had learned that even in a world without God, they were capable of creating something truly beautiful and meaningful - and they had done it together.
+
+*June 2021*
+
+<div align="center">
   <h2>Taste of Death</h2>
 </div>
 
