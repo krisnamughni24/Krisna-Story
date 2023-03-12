@@ -1,4 +1,34 @@
 <div align="center">
+  <h2>Taste of Death</h2>
+</div>
+
+In the depths of a forest, there lived a wise old man who spent his days meditating and contemplating the mysteries of life and death. One day, as he sat in quiet reflection, he suddenly felt a strange sensation in his mouth, as if he had just tasted something bitter and acrid.
+
+At first, the old man was puzzled by this taste, but as he continued to meditate, he began to understand its meaning. It was the taste of the seconds of death - the fleeting moments between life and the afterlife, where the soul hovers in a state of limbo before moving on to its final destination.
+
+The old man was struck by the profound nature of this experience. For him, it was a reminder that life is fleeting and that we must seize every moment and make the most of our time on this earth. He saw in the taste of the seconds of death a profound truth about the nature of existence - that everything is impermanent, and that we must learn to accept and embrace change in all its forms.
+
+The taste of the seconds of death became a symbol for the old man, a constant reminder of the transitory nature of life and the need to seek out truth and meaning in every moment. And as he continued his meditations, he felt a deep sense of peace and contentment, knowing that he had come to understand one of the great mysteries of the universe.
+
+*May 2021*
+
+<div align="center">
+  <h2>Bone Cancer</h2>
+</div>
+
+Once there was a man, strong and fearless, who believed that he was invincible. He climbed mountains, swam in the deepest oceans, and fought battles with unwavering courage. His body was his temple, and he took great care of it, nourishing it with only the finest foods and pushing it to its limits in his never-ending pursuit of greatness.
+
+But one day, he began to feel a strange ache in his bones. At first, he dismissed it as a minor injury, the price of his relentless pursuit of physical perfection. But as the pain grew more intense, he began to fear that something more sinister was at work. He consulted with the finest doctors and healers, but none could find the source of his discomfort. It was only after many long months of agony that he received the devastating diagnosis: bone cancer.
+
+The man was shattered. How could this happen to him, the invincible one, the conqueror of mountains and oceans? But as he grappled with his mortality, a strange transformation began to take place within him. He realized that his body was not invincible, that even the strongest of us are vulnerable to the whims of fate. But he also realized that his spirit was unbreakable, that he could face any challenge with courage and resilience.
+
+And so, he began a new journey, one of acceptance and enlightenment. He embraced the impermanence of his physical form and focused on cultivating the strength of his inner being. He found peace in the knowledge that he had lived his life to the fullest, that he had conquered every obstacle with courage and determination. As the cancer ravaged his body, he remained resolute, a testament to the indomitable will of the human spirit. And when he finally passed from this world, he left behind a legacy of courage and strength that would inspire generations to come.
+
+For in the end, it was not his physical form that defined him, but the depth of his character, the power of his will, and the immensity of his spirit. In the face of death, he proved that true greatness lies not in the conquest of the physical world, but in the conquest of oneself.
+
+*April 2021*
+
+<div align="center">
   <h2>Wise Poop</h2>
 </div>
 
