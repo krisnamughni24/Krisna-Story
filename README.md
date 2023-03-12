@@ -1,8 +1,10 @@
 <div>
-  <h2>Mortals God</h2>
+  <h2 align="center">Mortals God</h2>
 </div>
 
-![Mortals God](https://user-images.githubusercontent.com/68163712/224541707-1593cac8-a9c5-452e-b0ef-b1b607e39ce7.png)
+<div align="center" style="width: 50%">
+  <img src="https://user-images.githubusercontent.com/68163712/224541707-1593cac8-a9c5-452e-b0ef-b1b607e39ce7.png"/>
+</div>
 
 Once upon a time, in a world ruled by mortals, there was an unexpected god who appeared out of nowhere. This god was unlike any other - he did not fit into the mold of the gods that the mortals had created in their minds. The mortals were perplexed by this new god. They could not comprehend what he stood for, what his purpose was, or even what he looked like. He seemed to challenge everything they had ever known about the divine, and they were both fascinated and frightened by him.
 
